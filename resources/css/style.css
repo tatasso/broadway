@@ -1,0 +1,43 @@
+* {
+  text-align: center;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+h3.origin {
+  color: white;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+p.body {
+  text-align: center;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+p.footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+
+.copyright {
+  font-size: 11px;
+}
